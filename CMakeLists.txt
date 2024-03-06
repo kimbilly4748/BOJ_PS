@@ -61,4 +61,6 @@ add_executable(untitled B5/10699.cpp
         S4/10828.cpp
         B2/2798.cpp
         B3/4153.cpp
+        B2/2231.cpp
+        B2/15829.cpp
 )
