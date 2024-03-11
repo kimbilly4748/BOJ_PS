@@ -111,7 +111,8 @@
 				56,
 				57,
 				58,
-				59
+				59,
+				60
 			]
 		}
 	],
@@ -207,7 +208,8 @@
 				56,
 				57,
 				58,
-				59
+				59,
+				60
 			]
 		}
 	],
@@ -570,7 +572,13 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "15829.cpp",
+			"path" : "B2/15829.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "B1/1259.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
